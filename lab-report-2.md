@@ -1,6 +1,7 @@
 # Lab Report 2
 
-
+## StringServer.java:
+![/StringServerCode](StringServerCode.png)
 
 ![/add-message first run](StringServerRun1.png)
 
